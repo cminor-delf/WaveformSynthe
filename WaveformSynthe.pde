@@ -1,3 +1,5 @@
+//20146505 Gangta Choi GitHub
+
 import ddf.minim.*;
 import ddf.minim.ugens.*;
 
